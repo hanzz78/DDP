@@ -4,7 +4,7 @@
 #include "header.h"
 
 ///////baruuuuuu
-
+jdgodfh
 void tingkatkesulitan(int papan[UKURAN][UKURAN], int difficulty) {
     // Papan Sudoku yang sudah terisi dengan solusi
     int solution[UKURAN][UKURAN] = {
