@@ -3,6 +3,8 @@
 #include <time.h>
 #include "header.h"
 
+///////baruuuuuu
+
 void tingkatkesulitan(int papan[UKURAN][UKURAN], int difficulty) {
     // Papan Sudoku yang sudah terisi dengan solusi
     int solution[UKURAN][UKURAN] = {
